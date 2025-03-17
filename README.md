@@ -53,3 +53,5 @@ export default tseslint.config({
 })
 ```
 # React-Redux-MyBasket
+* State Management için Redux kullanıldı.
+* MIU kullanıldı.
